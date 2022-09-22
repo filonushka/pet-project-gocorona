@@ -1,4 +1,4 @@
-## pet-project-gocorona  
+## pet-project GoCorona  
 - [Figma Layout](https://www.figma.com/file/rxm3h96stp2ihkI8CMC1RI/Gocorna-Website?node-id=0%3A1)  
 - [Deploy](https://go-corona-pet-project.netlify.app/)
 - Tech Stack: HTML, CSS  
